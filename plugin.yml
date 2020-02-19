@@ -1,5 +1,5 @@
 name: customuitest
-main: JPoisonLegacy\customuitest\Loader
+main: JPoisonLegacy\ui\Loader
 version: 0.1
 api: ['3.0.0','4.0.0']
 load: POSTWORLD
